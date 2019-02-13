@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>642031540594-essujveiebi9l7ikvfm4sb3r0bk9ae02.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.642031540594-essujveiebi9l7ikvfm4sb3r0bk9ae02</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_2q5iWhrpf4Nkxsh31usCX-BXCiOEUdU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>642031540594</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.henrique.WhatsApp</string>
+	<key>PROJECT_ID</key>
+	<string>whatsapp-491ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsapp-491ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:642031540594:ios:6f298ff8622000df</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatsapp-491ac.firebaseio.com</string>
+</dict>
+</plist>
